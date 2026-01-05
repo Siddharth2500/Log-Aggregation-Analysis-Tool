@@ -4,7 +4,7 @@
 ----
 ### Description
 Advanced log analysis system that aggregates logs from multiple sources, performs pattern recognition, identifies anomalies, and generates insights with ML-based predictions.
-
+----
 ### Features
 - Multi-source log aggregation
 - Pattern recognition and clustering
