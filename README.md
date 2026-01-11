@@ -19,7 +19,7 @@ Advanced log analysis system that aggregates logs from multiple sources, perform
 - Pandas for data manipulation
 - Scikit-learn for ML analysis
 - Matplotlib for visualization
-
+---
 ### Installation
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
