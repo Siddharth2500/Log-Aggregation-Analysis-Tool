@@ -12,7 +12,7 @@ Advanced log analysis system that aggregates logs from multiple sources, perform
 - Error rate tracking
 - Log level distribution analysis
 - Search and filter capabilities
---
+---
 ### Tech Stack
 - Python 3.8+
 - Regular expressions for parsing
