@@ -24,7 +24,7 @@ Advanced log analysis system that aggregates logs from multiple sources, perform
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 python log_analyzer.py
-```
+````
 
 ### Usage
 ```python
