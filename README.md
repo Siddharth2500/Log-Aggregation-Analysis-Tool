@@ -33,7 +33,7 @@ analyzer = LogAnalyzer()
 analyzer.add_log_source("/var/log/app.log")
 analyzer.analyze_patterns()
 analyzer.detect_anomalies()
-```
+`````
 
 ### Output
 - Log pattern frequency charts
