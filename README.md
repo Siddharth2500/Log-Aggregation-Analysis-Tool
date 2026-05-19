@@ -41,4 +41,4 @@ analyzer.detect_anomalies()
 - Anomaly detection graphs
 - Time-series analysis
 
-----------
+-----------
