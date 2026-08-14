@@ -1,5 +1,5 @@
 # Log-Aggregation-Analysis-Tool
--------------
+--------------
 <img width="1789" height="1180" alt="image" src="https://github.com/user-attachments/assets/59db5267-892b-4920-8127-577b44cca3ae" />
 --------------
 ### Description
